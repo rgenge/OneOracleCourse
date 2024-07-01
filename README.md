@@ -1,6 +1,6 @@
 # OneOracleCourse
 
-his project provides a simple tool to encrypt and decrypt text messages using cryptography.
+This project provides a simple tool to encrypt and decrypt text messages using cryptography.
 
 ** Getting Started**
 
