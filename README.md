@@ -21,3 +21,6 @@ Click the "Encrypt" button. The encrypted text will be displayed.
 Copy the encrypted text.
 Paste the copied encrypted text into the text input field.
 Click the "Decrypt" button. The original message will be revealed!
+![image](https://github.com/rgenge/OneOracleCourse/assets/82456124/50bd21f2-4dd0-4a56-b82a-d505c027c6e1)
+
+![image](https://github.com/rgenge/OneOracleCourse/assets/82456124/1a2e904c-339a-4aa3-82de-a854f161c3db)
